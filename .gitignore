@@ -1,0 +1,21 @@
+# Project
+**/log/
+*.log
+
+# Maven
+*.versionsBackup
+
+# Eclipse
+.project
+.classpath
+**/target/
+**/.settings/
+
+# Eclipse Spring Plugin
+.springBeans
+.factorypath
+.apt_generated/
+
+# IDEA
+**/.idea/
+*.iml
